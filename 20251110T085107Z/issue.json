@@ -1,0 +1,96 @@
+{
+   "contents" : [
+      {
+         "abstract" : null,
+         "author" : null,
+         "id" : "F1_12.25",
+         "series" : null,
+         "socialComment" : null,
+         "socialImageUrl" : null,
+         "socialUrl" : null,
+         "tags" : null,
+         "title" : "",
+         "titleHtml" : "F1 12.25",
+         "type" : "article"
+      }
+   ],
+   "id" : "urn:uuid:quark:html5:F1_12.25:publication",
+   "media" : null,
+   "publishedDate" : "2025-11-10T08:51:17Z",
+   "subtitle" : null,
+   "title" : "F1 12.25",
+   "variants" : [
+      {
+         "fontSize" : "16",
+         "height" : "792",
+         "orientation" : "portrait",
+         "pages" : [
+            {
+               "contents" : [
+                  {
+                     "href" : "#F1_12.25",
+                     "pageRef" : "1"
+                  }
+               ],
+               "id" : "1",
+               "preview1024" : "article/Layout_1_copy_(V)/assets/portrait1_preview.jpeg",
+               "properties" : {
+                  "height" : "792",
+                  "width" : "612"
+               },
+               "thumbnail" : "article/Layout_1_copy_(V)/assets/portrait1_preview.jpeg",
+               "url" : "article/Layout_1_copy_(V)/portrait1.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#F1_12.25",
+                     "pageRef" : "2"
+                  }
+               ],
+               "id" : "2",
+               "preview1024" : "article/Layout_1_copy_(V)/assets/portrait2_preview.jpeg",
+               "properties" : {
+                  "height" : "792",
+                  "width" : "612"
+               },
+               "thumbnail" : "article/Layout_1_copy_(V)/assets/portrait2_preview.jpeg",
+               "url" : "article/Layout_1_copy_(V)/portrait2.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#F1_12.25",
+                     "pageRef" : "3"
+                  }
+               ],
+               "id" : "3",
+               "preview1024" : "article/Layout_1_copy_(V)/assets/portrait3_preview.jpeg",
+               "properties" : {
+                  "height" : "792",
+                  "width" : "612"
+               },
+               "thumbnail" : "article/Layout_1_copy_(V)/assets/portrait3_preview.jpeg",
+               "url" : "article/Layout_1_copy_(V)/portrait3.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#F1_12.25",
+                     "pageRef" : "4"
+                  }
+               ],
+               "id" : "4",
+               "preview1024" : "article/Layout_1_copy_(V)/assets/portrait4_preview.jpeg",
+               "properties" : {
+                  "height" : "792",
+                  "width" : "612"
+               },
+               "thumbnail" : "article/Layout_1_copy_(V)/assets/portrait4_preview.jpeg",
+               "url" : "article/Layout_1_copy_(V)/portrait4.html"
+            }
+         ],
+         "width" : "612"
+      }
+   ]
+}
